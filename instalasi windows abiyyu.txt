@@ -1,0 +1,115 @@
+
+Persiapan
+
+Flashdisk min. 8 GB
+
+File ISO Windows (Win 10 / 11)
+
+Aplikasi Rufus (untuk membuat bootable)
+
+1️⃣ Buat Flashdisk Bootable
+
+Colokkan flashdisk
+
+Buka Rufus
+
+Pilih:
+
+Device: Flashdisk
+
+Boot Selection: ISO Windows
+
+Partition Scheme:
+
+GPT → UEFI (laptop baru)
+
+MBR → Legacy (PC lama)
+
+Klik Start
+
+Tunggu sampai selesai
+
+2️⃣ Setting BIOS / Boot Menu
+
+Restart PC / Laptop
+
+Tekan:
+
+F2 / DEL → BIOS
+
+F12 / ESC → Boot Menu
+
+Pilih Boot dari USB
+
+Simpan & restart
+
+3️⃣ Proses Instalasi Windows
+
+Pilih Language → Next
+
+Klik Install Now
+
+Masukkan Product Key
+(atau klik I don’t have a product key)
+
+Pilih Versi Windows
+
+Pilih Custom: Install Windows only
+
+4️⃣ Partisi Harddisk
+
+⚠️ Hati-hati data terhapus
+
+Instal baru:
+
+Hapus semua partisi
+
+Pilih Unallocated Space
+
+Klik Next
+
+Instal tanpa hapus data:
+
+Pilih partisi C:
+
+Klik Format
+
+Jangan sentuh partisi D:
+
+5️⃣ Tunggu Instalasi
+
+PC restart otomatis
+
+Cabut flashdisk saat restart pertama
+
+6️⃣ Setting Awal Windows
+
+Pilih region & keyboard
+
+Sambungkan WiFi (opsional)
+
+Buat akun:
+
+Microsoft Account / Local Account
+
+Tunggu sampai masuk desktop
+
+7️⃣ Setelah Instalasi (Wajib)
+
+✅ Install Driver
+
+VGA
+
+LAN / WiFi
+
+Audio
+
+✅ Install aplikasi penting:
+
+Google Chrome
+
+Office
+
+WinRAR
+
+Antivirus
